@@ -1,4 +1,5 @@
 global:
+
   ## List of destinations (server and namespace) that should be added to the project
   ## to allow deployments. Will be provided in addition to those listed in the
   ## application targets.

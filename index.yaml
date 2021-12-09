@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  argocd-config:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-09T05:02:57.350834892Z"
+    description: Helm chart to create ArgoCD custom resources for projects and applications
+      with optional RBAC configuration to allow ArgoCD to create resources in other
+      namespaces
+    digest: 1964058efde979ca5c692c4fbe1c5f409ae6eaa9e2cebb757c83bdb044af46db
+    name: argocd-config
+    type: application
+    urls:
+    - https://github.com/resnostyle/chart/releases/download/argocd-config-0.20.2/argocd-config-0.20.2.tgz
+    version: 0.20.2
+generated: "2021-12-09T05:02:57.01688563Z"
